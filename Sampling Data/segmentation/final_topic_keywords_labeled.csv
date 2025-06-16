@@ -1,0 +1,71 @@
+cluster,keywords,topic_label_en
+0.0,"['batman', 'ak', 'hardly', 'case', 'ama']",Story-driven action games with iconic characters
+1.0,"['ultimate', 'freelancer', 'alone', 'obviously', 'hitman']",Stealth or single-player action games
+2.0,"['en', 'fakat', 'oyun', 'schnell', 'vous']",Non-English reviews (Multilingual content)
+3.0,"['black', 'wierdly', 'tower', 'alot', 'jack']",Mixed gameplay experience with confusing mechanics
+4.0,"['piece', 'con', 'next', 'poop', 'call']",Negative reviews and criticism
+5.0,"['life', 'remember', 'average', 'ms', 'underpriced']",Underrated narrative games with emotional elements
+6.0,"['loud', 'meh', 'epic', 'hentai', 'alyxe']",Mixed genre games with exaggerated style or content
+7.0,"['lover', 'insane', 'expansion', 'ahead', 'ahhh']",Hype for expansions and intense fan reactions
+8.0,"['buy', 'efootball', 'weary', 'witcher', 'janky']",Disappointment with popular titles or sports games
+9.0,"['free', 'disappointed', 'farming', 'content', 'humblebundle']",Low-value free content and monetization critique
+10.0,"['product', 'abandonware', 'scan', 'clownshow', 'thank']",Criticism of abandoned or poorly supported games
+11.0,"['eternal', 'nah', 'smile', 'chicory', 'rename']",Indie games with artistic or emotional tones
+12.0,"['game', 'eh', 'dislike', 'gravity', 'taxis']",Frustration with basic mechanics and control
+13.0,"['character', 'galaxy', 'adam', 'wear', 'lugo']",Sci-fi or space-themed character-driven games
+14.0,"['task', 'cancer', 'assassin', 'may', 'eu']",Harsh critique of difficulty or dark themes
+15.0,"['end', 'supergiant', 'slow', 'except', 'consume']",Slow-paced narrative games or roguelike indie titles
+16.0,"['gangster', 'karen', 'euphoria', 'teararino', 'electric']",Crime and satire themed games
+17.0,"['good', 'playform', 'especially', 'poe', 'recc']",Strongly recommended ARPGs or popular game mechanics
+18.0,"['fun', 'playsi', 'much', 'clean', 'weirdly']",Fun casual games with unexpected mechanics
+19.0,"['boss', 'available', 'cute', 'liveleak', 'scooter']",Boss fights and quirky or controversial moments
+20.0,"['alive', 'coronavirus', 'gta', 'therapist', 'tide']",Games reflecting real-world issues or modern society
+21.0,"['favorite', 'excalibur', 'strategy', 'virginia', 'scroll']",Strategy or RPG games with rich lore
+22.0,"['excellent', 'gwailo', 'pedestrian', 'funtoplay', 'relax']",Relaxing and unique games praised by players
+23.0,"['criminal', 'turnbase', 'mode', 'expect', 'ww']",Tactical turn-based crime or war games
+24.0,"['discord', 'gooner', 'armaand', 'havoc', 'frame']",Online multiplayer chaos and social platform integration
+25.0,"['chair', 'glitchy', 'pride', 'hurry', 'memory']",Buggy or rushed games with broken mechanics
+26.0,"['shooter', 'welp', 'untertaining', 'innovative', 'friendnamehere']",Creative shooter games with mixed reception
+27.0,"['card', 'interesting', 'gain', 'builder', 'randomness']",Deck-building and strategy card games
+28.0,"['gun', 'management', 'aspect', 'repetitive', 'xcom']",Tactical shooter games with base/resource management
+29.0,"['mod', 'seemingly', 'breach', 'turn', 'garrys']",Modding communities and sandbox experimentation
+30.0,"['city', 'survival', 'postapocalyptic', 'audio', 'custom']",Post-apocalyptic survival city-building games
+31.0,"['football', 'hyper', 'drifter', 'fuck', 'headpat']",Over-the-top sports or chaotic party games
+32.0,"['player', 'platform', 'channel', 'usually', 'upgrade']",Platformers with customization and streamer influence
+33.0,"['wall', 'pathetic', 'netcode', 'per', 'bethesda']",Poor network performance and developer criticism
+34.0,"['problem', 'vsync', 'ubisoft', 'dx', 'constantly']",Technical issues and game optimization complaints
+35.0,"['campaign', 'person', 'wherein', 'scp', 'bt']",Narrative sci-fi or SCP-themed single-player campaigns
+36.0,"['fix', 'gain', 'ea', 'disconnect', 'wit']",Multiplayer instability and EA-related frustrations
+37.0,"['update', 'mowa', 'revamp', 'abuse', 'ifwhen']",Frequent updates with questionable balance or changes
+38.0,"['murder', 'simp', 'breen', 'bring', 'boob']",Chaotic or adult-themed parody games
+39.0,"['name', 'poor', 'content', 'rally', 'bethesda']",Poor content value and repeated criticism of Bethesda
+40.0,"['console', 'since', 'ceo', 'mess', 'framerate']",Console version issues and management decisions
+41.0,"['police', 'series', 'vito', 'mindlessly', 'zombie']",Police/crime/zombie series with repetitive gameplay
+42.0,"['remake', 'aswell', 'military', 'slowmo', 'wierd']",Military-themed remakes with mixed mechanics
+43.0,"['masterpiece', 'gear', 'hideo', 'idea', 'originial']",Masterpiece games by visionary creators (e.g. Hideo Kojima)
+44.0,"['campaign', 'dumb', 'causeway', 'offer', 'falaise']",Historical war campaigns with strategic flaws
+45.0,"['mod', 'kongregate', 'stupid', 'drafting', 'stylish']",Stylized browser/mod games with casual mechanics
+46.0,"['horror', 'hehe', 'walkie', 'firepower', 'uninstall']",Campy or frustrating horror games
+47.0,"['explanation', 'rome', 'decent', 'wild', 'theme']",Historically-inspired narrative or adventure games
+48.0,"['killer', 'bloodline', 'means', 'please', 'pale']",Vampire or assassin-themed games with dramatic tone
+49.0,"['conscience', 'caveman', 'uh', 'traditional', 'possiblitie']",Primitive or philosophical indie games
+50.0,"['horror', 'entire', 'klei', 'yet', 'uncensored']","Stylized horror games by known indie studios (e.g., Klei)"
+51.0,"['update', 'conviniently', 'valhalla', 'uncommon', 'timer']","Timed updates and DLC management issues (e.g., Assassin’s Creed)"
+52.0,"['painful', 'quarter', 'spaceshipjacking', 'everryone', 'stupidly']",Frustrating space adventure games
+53.0,"['edit', 'match', 'rambo', 'fool', 'breaking']",Action-packed arcade or PvP games with chaotic gameplay
+54.0,"['key', 'instruction', 'aside', 'puzzles', 'runner']",Puzzle-platformers or runner games
+55.0,"['style', 'photogammetry', 'conserve', 'quadwielde', 'weir']",Visually rich games with technical art focus
+56.0,"['puzzle', 'decent', 'singleplayer', 'resource', 'deterministic']",Thoughtful single-player puzzle or logic games
+57.0,"['nose', 'coexist', 'bless', 'backstory', 'mgs']","Games with rich backstories and moral themes (e.g., MGS-style)"
+58.0,"['ending', 'naive', 'playform', 'organic', 'reborn']",Emotional story arcs and character transformation
+59.0,"['horror', 'faithful', 'ton', 'knuckle', 'mindblowing']",Classic-style horror games with strong fan praise
+60.0,"['theoretical', 'meetingsresponsibilitiesetc', 'platforme', 'check', 'freeman']",Sci-fi puzzle games with philosophical undertones
+61.0,"['decide', 'snowmobile', 'wierdclimbe', 'injustice', 'holme']",Adventure games with investigative or snowy themes
+62.0,"['character', 'greece', 'split', 'around', 'sequence']",Mythology-inspired story-based games
+63.0,"['scene', 'okay', 'discover', 'previous', 'gabriel']",Story-driven mysteries or cinematic adventure games
+64.0,"['name', 'grow', 'west', 'sick', 'unskippable']",Western-themed or poorly paced narrative games
+65.0,"['blandest', 'containment', 'rb', 'xy', 'duel']",Sci-fi battle or containment-themed PvP games
+66.0,"['sound', 'sorely', 'holmes', 'chapter', 'crysis']",Episodic or detective-action games with lacking polish
+67.0,"['unknown', 'animation', 'limit', 'invasion', 'mcpixel']",Surreal or unpredictable indie experiments
+68.0,"['release', 'messy', 'workforce', 'ru', 'list']",Sloppy game launches and studio mismanagement
+69.0,"['read', 'episode', 'hz', 'panzer', 'elevator']",Episodic war or alternate-history narratives

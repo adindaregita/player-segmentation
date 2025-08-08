@@ -1,0 +1,32 @@
+[
+    {
+        "arketype": "archetype_1_weight",
+        "fitur_kuantitatif": "226.58 game dimiliki, 25.61 jam playtime, 2456 achievement",
+        "topik_dominan": "pemain sering membahas tentang aspek game yang terkait dengan kesehatan dan penyakit",
+        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang terkait dengan kesehatan dan penyakit, seperti pinball dan game lainnya."
+    },
+    {
+        "arketype": "archetype_2_weight",
+        "fitur_kuantitatif": "231.29 game dimiliki, 35.03 jam playtime, 2607 achievement",
+        "topik_dominan": "pemain sering membahas tentang masalah teknis dan bug dalam game",
+        "interpretasi": "pemain ini memiliki masalah teknis yang sering terjadi dalam game, seperti crash dan lag."
+    },
+    {
+        "arketype": "archetype_3_weight",
+        "fitur_kuantitatif": "247.43 game dimiliki, 29.85 jam playtime, 3560 achievement",
+        "topik_dominan": "pemain sering membahas tentang perasaan dan emosi dalam game",
+        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang dapat membuatnya merasa senang dan terhibur."
+    },
+    {
+        "arketype": "archetype_4_weight",
+        "fitur_kuantitatif": "386.58 game dimiliki, 26.44 jam playtime, 3811 achievement",
+        "topik_dominan": "pemain sering membahas tentang aspek game yang terkait dengan kesehatan dan penyakit",
+        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang terkait dengan kesehatan dan penyakit, seperti pinball dan game lainnya."
+    },
+    {
+        "arketype": "archetype_5_weight",
+        "fitur_kuantitatif": "211.29 game dimiliki, 38.52 jam playtime, 2285 achievement",
+        "topik_dominan": "pemain sering membahas tentang pembelian dan konten dalam game",
+        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang memiliki konten dan fitur yang dapat dibeli, seperti bundle dan DLC."
+    }
+]

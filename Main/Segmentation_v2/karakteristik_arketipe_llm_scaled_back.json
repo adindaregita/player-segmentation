@@ -1,0 +1,57 @@
+{
+    "archetype_1_weight": {
+        "average_game_owned": 226.58,
+        "average_playtime": 25.61,
+        "average_achievement": 2456.17,
+        "dominant_topic": "4",
+        "top_3_genres": [
+            "9",
+            "17",
+            "13"
+        ]
+    },
+    "archetype_2_weight": {
+        "average_game_owned": 231.29,
+        "average_playtime": 35.03,
+        "average_achievement": 2607.86,
+        "dominant_topic": "3",
+        "top_3_genres": [
+            "1",
+            "2",
+            "13"
+        ]
+    },
+    "archetype_3_weight": {
+        "average_game_owned": 247.43,
+        "average_playtime": 29.85,
+        "average_achievement": 3560.24,
+        "dominant_topic": "1",
+        "top_3_genres": [
+            "1",
+            "9",
+            "2"
+        ]
+    },
+    "archetype_4_weight": {
+        "average_game_owned": 386.58,
+        "average_playtime": 26.44,
+        "average_achievement": 3811.92,
+        "dominant_topic": "4",
+        "top_3_genres": [
+            "9",
+            "1",
+            "17"
+        ]
+    },
+    "archetype_5_weight": {
+        "average_game_owned": 211.29,
+        "average_playtime": 38.52,
+        "average_achievement": 2285.71,
+        "dominant_topic": "2",
+        "top_3_genres": [
+            "1",
+            "2",
+            "9"
+        ]
+    }
+}

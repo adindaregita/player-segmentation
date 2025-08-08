@@ -1,0 +1,6 @@
+Archetype,Avg_Game_Orig,Avg_Playtime_Orig,Avg_Achievement_Orig,Dominant_Topic,Top_3_Genre
+archetype_1_weight,226.58,25.61,2456.17,4,"['9', '17', '13']"
+archetype_2_weight,231.29,35.03,2607.86,3,"['1', '2', '13']"
+archetype_3_weight,247.43,29.85,3560.24,1,"['1', '9', '2']"
+archetype_4_weight,386.58,26.44,3811.92,4,"['9', '1', '17']"
+archetype_5_weight,211.29,38.52,2285.71,2,"['1', '2', '9']"

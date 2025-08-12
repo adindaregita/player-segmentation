@@ -1,32 +1,52 @@
 [
     {
-        "arketype": "archetype_1_weight",
-        "fitur_kuantitatif": "226.58 game dimiliki, 25.61 jam playtime, 2456 achievement",
-        "topik_dominan": "pemain sering membahas tentang aspek game yang terkait dengan kesehatan dan penyakit",
-        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang terkait dengan kesehatan dan penyakit, seperti pinball dan game lainnya."
+        "arketipe": "Arketype 1",
+        "fitur_kuantitatif": {
+            "average_game_owned": 226.58,
+            "average_playtime": 25.61,
+            "average_achievement": 2456.17
+        },
+        "topik_dominan": "Pengalaman game yang unik dan menarik",
+        "interpretasi": "Pemain ini memiliki rata-rata 226 game dan bermain selama 25.61 jam, serta memiliki 2456 achievement. Mereka lebih memilih game yang unik dan menarik, seperti game pinball yang menawarkan pengalaman berbeda."
     },
     {
-        "arketype": "archetype_2_weight",
-        "fitur_kuantitatif": "231.29 game dimiliki, 35.03 jam playtime, 2607 achievement",
-        "topik_dominan": "pemain sering membahas tentang masalah teknis dan bug dalam game",
-        "interpretasi": "pemain ini memiliki masalah teknis yang sering terjadi dalam game, seperti crash dan lag."
+        "arketipe": "Arketype 2",
+        "fitur_kuantitatif": {
+            "average_game_owned": 231.29,
+            "average_playtime": 35.03,
+            "average_achievement": 2607.86
+        },
+        "topik_dominan": "Kesulitan teknis dan masalah game",
+        "interpretasi": "Pemain ini memiliki rata-rata 231 game dan bermain selama 35.03 jam, serta memiliki 2607 achievement. Mereka lebih mengalami kesulitan teknis dan masalah game, seperti crash dan frame rate slow."
     },
     {
-        "arketype": "archetype_3_weight",
-        "fitur_kuantitatif": "247.43 game dimiliki, 29.85 jam playtime, 3560 achievement",
-        "topik_dominan": "pemain sering membahas tentang perasaan dan emosi dalam game",
-        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang dapat membuatnya merasa senang dan terhibur."
+        "arketipe": "Arketype 3",
+        "fitur_kuantitatif": {
+            "average_game_owned": 247.43,
+            "average_playtime": 29.85,
+            "average_achievement": 3560.24
+        },
+        "topik_dominan": "Hiburan dan kesenangan",
+        "interpretasi": "Pemain ini memiliki rata-rata 247 game dan bermain selama 29.85 jam, serta memiliki 3560 achievement. Mereka lebih menyukai game yang dapat memberikan hiburan dan kesenangan, seperti game action dan adventure."
     },
     {
-        "arketype": "archetype_4_weight",
-        "fitur_kuantitatif": "386.58 game dimiliki, 26.44 jam playtime, 3811 achievement",
-        "topik_dominan": "pemain sering membahas tentang aspek game yang terkait dengan kesehatan dan penyakit",
-        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang terkait dengan kesehatan dan penyakit, seperti pinball dan game lainnya."
+        "arketipe": "Arketype 4",
+        "fitur_kuantitatif": {
+            "average_game_owned": 386.58,
+            "average_playtime": 26.44,
+            "average_achievement": 3811.92
+        },
+        "topik_dominan": "Pengalaman game yang unik dan menarik",
+        "interpretasi": "Pemain ini memiliki rata-rata 386 game dan bermain selama 26.44 jam, serta memiliki 3811 achievement. Mereka lebih memilih game yang unik dan menarik, seperti game pinball yang menawarkan pengalaman berbeda. Karakter pemain ini juga memiliki kecenderungan unik yang membedakannya."
     },
     {
-        "arketype": "archetype_5_weight",
-        "fitur_kuantitatif": "211.29 game dimiliki, 38.52 jam playtime, 2285 achievement",
-        "topik_dominan": "pemain sering membahas tentang pembelian dan konten dalam game",
-        "interpretasi": "pemain ini memiliki minat yang kuat pada game yang memiliki konten dan fitur yang dapat dibeli, seperti bundle dan DLC."
+        "arketipe": "Arketype 5",
+        "fitur_kuantitatif": {
+            "average_game_owned": 211.29,
+            "average_playtime": 38.52,
+            "average_achievement": 2285.71
+        },
+        "topik_dominan": "Beli dan koleksi game",
+        "interpretasi": "Pemain ini memiliki rata-rata 211 game dan bermain selama 38.52 jam, serta memiliki 2285 achievement. Mereka lebih menyukai game yang dapat dipbeli dan dikoleksi, serta memiliki minat pada content downloadble dan cosmetic."
     }
 ]
